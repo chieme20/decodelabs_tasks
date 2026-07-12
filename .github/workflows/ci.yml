@@ -1,0 +1,23 @@
+name: DecodeLabs CI Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Display Welcome Message
+        run: echo "Welcome to DecodeLabs CI/CD Pipeline"
+
+      - name: Show Repository Files
+        run: ls -la
+
+      - name: Pipeline Completed
+        run: echo "CI Pipeline executed successfully!"
