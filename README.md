@@ -1,36 +1,32 @@
-# Git & GitHub Basics
 
-This repository contains my practical exercises for Project 2 of the Decode Labs DevOps Internship.
+# DecodeLabs DevOps Internship Tasks
 
-## Project Objectives
+This repository contains my practical projects completed during the DecodeLabs DevOps Internship.
 
-- Learn the fundamentals of Git.
-- Understand version control.
-- Create and manage a local Git repository.
-- Connect a local repository to GitHub.
-- Push project files to a remote repository using SSH.
+## Repository Structure
 
-## Skills Demonstrated
-
-- Git installation and configuration
+### Project 2 – Git & GitHub Basics
+- Git fundamentals
 - Repository initialization
-- Git status
-- Staging files
-- Creating commits
-- Viewing commit history
-- Connecting Git to GitHub
+- Commit history
+- GitHub integration
 - SSH authentication
-- Pushing code to GitHub
+
+### Project 3 – GitHub Actions (CI Pipeline)
+- GitHub Actions workflow
+- Continuous Integration (CI)
+- Workflow automation
+- YAML configuration
+- Automated pipeline execution
 
 ## Technologies Used
 
 - Git
 - GitHub
+- GitHub Actions
 - Ubuntu (WSL)
 - Linux Command Line
 
 ## Author
 
 **Chiemezuo Martina**
-
-Decode Labs DevOps Internship
